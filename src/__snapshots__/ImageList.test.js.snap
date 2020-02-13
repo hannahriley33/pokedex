@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <div
+    class="itemCard"
+  >
+    <img
+      alt=""
+      height="200"
+      src="http://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png"
+      width="200"
+    />
+    <h3>
+      venusaur
+    </h3>
+    <p>
+      82
+    </p>
+    <p>
+      83
+    </p>
+  </div>
+</div>
+`;

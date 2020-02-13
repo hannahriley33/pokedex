@@ -5,9 +5,21 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+ background-color: darkgrey;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.itemCard {
+  border: solid black 1px;
+  width: 40%;
+  position: relative;
+  align-content: center;
+  background-color: azure;
+  margin: 20px;
+  display: inline-block;
 }
